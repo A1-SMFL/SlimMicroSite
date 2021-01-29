@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/twig-view": "^3.1",
+        "slim/psr7": "^1.2",
+        "php-di/php-di": "^6.3"
+	},
+	"autoload": {
+		"psr-4": {
+		  "Systems\\" : "public/system"
+
+		}
+	 }
+}
