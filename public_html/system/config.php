@@ -10,3 +10,6 @@ define('DB_HOST', 'localhost');
 define('DB_NAME', 'bookings-website');
 define('DB_USER', 'root');       
 define('DB_PASS', '');
+
+include_once("../../vendor/a1phamumeric/class.DBPDO.php");
+$DB = new DBPDO();
