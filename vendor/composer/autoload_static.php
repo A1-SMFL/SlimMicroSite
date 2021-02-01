@@ -65,7 +65,7 @@ class ComposerStaticInit3f2edab23cc4d646c0835886e20c5dfa
         ),
         'Systems\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/public/system',
+            0 => __DIR__ . '/../..' . '/public_html/system',
         ),
         'Symfony\\Polyfill\\Php80\\' => 
         array (

@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '2f67f445a15987308fc73291a9aac605c321afc1',
+    'reference' => '9e5952e3094732ed86cf6d5da45e359bfc4c3c34',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '2f67f445a15987308fc73291a9aac605c321afc1',
+      'reference' => '9e5952e3094732ed86cf6d5da45e359bfc4c3c34',
     ),
     'a1phanumeric/php-mysql-class' => 
     array (
