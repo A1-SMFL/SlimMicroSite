@@ -1,9 +1,24 @@
 {
+	"repositories": [
+		{
+			"type":"package",
+			"package": {
+			  "name": "a1phanumeric/php-mysql-class",
+			  "version":"1.3",
+			  "source": {
+				  "url": "https://github.com/a1phanumeric/PHP-MySQL-Class.git",
+				  "type": "git",
+				  "reference":"master"
+				}
+			}
+		}
+	],
     "require": {
         "slim/slim": "4.*",
         "slim/twig-view": "^3.1",
         "slim/psr7": "^1.2",
-        "php-di/php-di": "^6.3"
+		"php-di/php-di": "^6.3",
+		"a1phanumeric/php-mysql-class": "*"
 	},
 	"autoload": {
 		"psr-4": {
